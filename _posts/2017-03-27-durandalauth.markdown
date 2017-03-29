@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dutti.jpg
-thumbnail: dutti-thumbnail.jpg
+img: durandal-auth.jpg
+thumbnail: durandal-auth-thumbnail.png
 alt: Massimo Dutti
 project-date: September 2016
 client: Inditex
