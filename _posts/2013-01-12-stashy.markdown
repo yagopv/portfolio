@@ -1,6 +1,6 @@
 ---
-title: DurandalAuth
-subtitle: Responsive website
+title: Stashy
+subtitle: Responsive components
 layout: default
 modal-id: 1
 date: 2014-07-18
