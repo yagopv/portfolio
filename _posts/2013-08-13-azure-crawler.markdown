@@ -1,14 +1,16 @@
 ---
-title: DurandalAuth
-subtitle: Responsive website
+title: Azure Crawler
+subtitle: Web Crawler Engine
 layout: default
 modal-id: 3
-date: 2014-07-18
-img: durandal-auth.jpg
-thumbnail: durandal-auth-thumbnail.png
-alt: DurandalAuth
-project-date: September 2016
+date: 2013-08-13
+img: azure-crawler.png
+thumbnail: azure-crawler.png
+alt: Azure Crawler
+project-date: August 2013
 client: Open Source
-category: Web Development
-description: A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+category: Tools
+description:
+    If you are developing applications using  modern JavaScript frameworks like Angular you probably already know that this type of applications are not crawlable by search engine robots without a couple of extra steps.<br/>
+    With Azure Crawler you can do it and render complete pages.
 ---

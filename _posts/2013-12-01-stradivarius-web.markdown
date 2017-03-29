@@ -4,8 +4,8 @@ subtitle: Responsive website
 layout: default
 modal-id: 4
 date: 2014-07-18
-img: durandal-auth.jpg
-thumbnail: durandal-auth-thumbnail.png
+img: stradivarius.png
+thumbnail: stradivarius-thumbnail.png
 alt: DurandalAuth
 project-date: September 2016
 client: Open Source

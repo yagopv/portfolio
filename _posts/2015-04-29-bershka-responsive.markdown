@@ -4,8 +4,8 @@ subtitle: Responsive website
 layout: default
 modal-id: 10
 date: 2014-07-18
-img: durandal-auth.jpg
-thumbnail: durandal-auth-thumbnail.png
+img: bershka.png
+thumbnail: bershka-thumbnail.png
 alt: DurandalAuth
 project-date: September 2016
 client: Open Source
