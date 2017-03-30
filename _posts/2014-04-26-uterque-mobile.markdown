@@ -4,8 +4,8 @@ subtitle: Mobile website
 layout: default
 modal-id: 7
 date: 2014-04-26
-img: uterque.png
-thumbnail: uterque.png
+img: uterque-mobile.png
+thumbnail: uterque-mobile.png
 alt: Uterque
 project-date: April 2014
 client: Inditex

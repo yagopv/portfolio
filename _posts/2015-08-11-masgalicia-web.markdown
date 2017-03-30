@@ -1,5 +1,5 @@
 ---
-title: DurandalAuth
+title: MasGalicia
 subtitle: Responsive website
 layout: default
 modal-id: 12

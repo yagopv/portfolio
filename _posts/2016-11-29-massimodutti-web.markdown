@@ -1,5 +1,5 @@
 ---
-title: DurandalAuth
+title: Massimo Dutti
 subtitle: Responsive website
 layout: default
 modal-id: 14

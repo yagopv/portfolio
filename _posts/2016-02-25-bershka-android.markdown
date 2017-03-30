@@ -1,11 +1,11 @@
 ---
-title: DurandalAuth
-subtitle: Responsive website
+title: Bershka
+subtitle: Android app
 layout: default
 modal-id: 12
 date: 2014-07-18
-img: durandal-auth.jpg
-thumbnail: durandal-auth-thumbnail.png
+img: bershka-android.png
+thumbnail: bershka-android.png
 alt: DurandalAuth
 project-date: September 2016
 client: Open Source

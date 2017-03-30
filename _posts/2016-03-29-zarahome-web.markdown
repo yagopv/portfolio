@@ -1,11 +1,11 @@
 ---
-title: DurandalAuth
-subtitle: Responsive website
+title: Zara Home
+subtitle: Desktop Website
 layout: default
 modal-id: 13
 date: 2014-07-18
-img: durandal-auth.jpg
-thumbnail: durandal-auth-thumbnail.png
+img: zarahome-old.png
+thumbnail: zarahome-old-thumbnail.png
 alt: DurandalAuth
 project-date: September 2016
 client: Open Source
