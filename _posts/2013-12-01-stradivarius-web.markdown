@@ -1,14 +1,16 @@
 ---
-title: DurandalAuth
-subtitle: Responsive website
+title: Stradivarius
+subtitle: Website
 layout: default
 modal-id: 4
-date: 2014-07-18
+date: 2013-12-01
 img: stradivarius.png
 thumbnail: stradivarius-thumbnail.png
-alt: DurandalAuth
-project-date: September 2016
-client: Open Source
+alt: Stradivarius
+project-date: DecemberJuly 2013
+client: Inditex
 category: Web Development
-description: A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+description:
+    I was involved in the creation of the first responsive website in Stradivarius.<br/><br/>
+    We used vanilla HTML5, CSS and JavaScript for creating the UX
 ---

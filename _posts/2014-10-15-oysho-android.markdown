@@ -1,14 +1,17 @@
 ---
-title: DurandalAuth
-subtitle: Responsive website
+title: Oysho
+subtitle: Android app
 layout: default
 modal-id: 8
-date: 2014-07-18
-img: durandal-auth.jpg
-thumbnail: durandal-auth-thumbnail.png
-alt: DurandalAuth
-project-date: September 2016
-client: Open Source
-category: Web Development
-description: A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+date: 2014-10-15
+img: oysho-android.png
+thumbnail: oysho-android.png
+alt: Oysho Android
+project-date: November 2015
+client: Inditex
+category: Android development
+description:
+   With the first Oysho Android app I could make my first approach to the Android development world. <br/></br>
+   It was a challenge as my Android background was very limited but we finished creating a nice app.<br/><br>
+   We developed in parallel the Android core library for the Inditex projects. This library is used nowadays in all the Android projects in the company
 ---

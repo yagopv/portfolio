@@ -1,14 +1,16 @@
 ---
-title: DurandalAuth
-subtitle: Responsive website
+title: Uterque Mobile
+subtitle: Mobile website
 layout: default
 modal-id: 7
-date: 2014-07-18
-img: durandal-auth.jpg
-thumbnail: durandal-auth-thumbnail.png
-alt: DurandalAuth
-project-date: September 2016
-client: Open Source
+date: 2014-04-26
+img: uterque.png
+thumbnail: uterque.png
+alt: Uterque
+project-date: April 2014
+client: Inditex
 category: Web Development
-description: A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+description:
+    This was my first mobile experience outside the Open Source world. I could develop the entire mobile site of the Inditex brand Uterque.<br/><br/>
+    The site was created using jQuery Mobile and it was a very nice experience. We can iterate the develop very fast and finished the project in a very short space.
 ---

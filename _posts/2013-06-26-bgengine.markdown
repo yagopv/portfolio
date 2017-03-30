@@ -11,6 +11,6 @@ project-date: July 2016
 client: Open Source
 category: Tools
 description:
-    BgEngine is a blog engine built using ASP MVC, Entity Framework, HTML and JavaScript.<br/>
+    BgEngine is a blog engine built using ASP MVC, Entity Framework, HTML and JavaScript.<br/><br/>
     This engine allow users to create blog posts, image galleries and video galleries in an easy way.
 ---

@@ -1,14 +1,16 @@
 ---
-title: DurandalAuth
+title: Bershka
 subtitle: Responsive website
 layout: default
 modal-id: 10
-date: 2014-07-18
+date: 2015-04-29
 img: bershka.png
 thumbnail: bershka-thumbnail.png
-alt: DurandalAuth
-project-date: September 2016
-client: Open Source
+alt: Bershka
+project-date: April 2015
+client: Inditex
 category: Web Development
-description: A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+description:
+    With a team with solid knowledge about creating responsive websites, I can lead the development of the Bershka first responsive website.
+    We choose Angular for helping us with the task and it was very easy to use compared with vanilla experiences :)
 ---

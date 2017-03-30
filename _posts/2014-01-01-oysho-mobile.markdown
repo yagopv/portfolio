@@ -1,14 +1,15 @@
 ---
-title: DurandalAuth
-subtitle: Responsive website
+title: Oysho
+subtitle: Mobile website
 layout: default
 modal-id: 5
-date: 2014-07-18
+date: 2014-01-01
 img: oysho.png
 thumbnail: oysho.png
-alt: DurandalAuth
-project-date: September 2016
-client: Open Source
+alt: Oysho Mobile
+project-date: January 2014
+client: Inditex
 category: Web Development
-description: A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+description:
+    We created this site using latest mobile design patterns and HTML5, CSS and JavaScript
 ---
