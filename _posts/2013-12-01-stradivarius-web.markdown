@@ -10,7 +10,6 @@ alt: Stradivarius
 project-date: DecemberJuly 2013
 client: Inditex
 category: Web Development
-description:
-    I was involved in the creation of the first responsive website in Stradivarius.<br/><br/>
-    We used vanilla HTML5, CSS and JavaScript for creating the UX
 ---
+I was involved in the creation of the first responsive website in Stradivarius.
+We used vanilla HTML5, CSS and JavaScript for creating the UX

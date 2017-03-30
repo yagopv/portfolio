@@ -10,8 +10,8 @@ alt: Stashy
 project-date: January 2013x
 client: Open Source
 category: Frameworks
-description:
-    A collection of components for doing responsive things.<br/><br/>
-    Stashy is a library aiming to help you with your responsive designs.<br/><br/>
-    Inside the package, you'll find layouts and utilities that might just be useful to your responsive designs.
 ---
+
+A collection of components for doing responsive things.
+Stashy is a library aiming to help you with your responsive designs.
+Inside the package, you'll find layouts and utilities that might just be useful to your responsive designs.

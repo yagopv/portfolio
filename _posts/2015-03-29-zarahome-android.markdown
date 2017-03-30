@@ -10,7 +10,6 @@ alt: Zara Home Android
 project-date: March 2015
 client: Inditex
 category: Android development
-description:
-    With more experience in the Android development world working in the ZaraHome Android app was a breeze. <br/></br/>
-    Having created a development base with another apps, we could create a more advanced experience with ease
 ---
+With more experience in the Android development world working in the ZaraHome Android app was a breeze.
+Having created a development base with another apps, we could create a more advanced experience with ease

@@ -10,6 +10,5 @@ alt: Oysho Mobile
 project-date: January 2014
 client: Inditex
 category: Web Development
-description:
-    We created this site using latest mobile design patterns and HTML5, CSS and JavaScript
 ---
+We created this site using latest mobile design patterns and HTML5, CSS and JavaScript

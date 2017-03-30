@@ -10,6 +10,5 @@ alt: Zara Home
 project-date: January 2014
 client: Open Source
 category: Web Development
-description:
-    I was developing new features for the old Zara Home site for a while.
 ---
+I was developing new features for the old Zara Home site for a while.
