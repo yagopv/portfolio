@@ -4,8 +4,8 @@ subtitle: Blog Engine Website
 layout: default
 modal-id: 2
 date: 2013-06-26
-img: bgengine.png
-thumbnail: bgengine-thumbnail.png
+img: bgengine.jpg
+thumbnail: bgengine-thumbnail.jpg
 alt: BgEngine
 project-date: July 2016
 client: Open Source
