@@ -6,12 +6,15 @@ modal-id: 1
 date: 2013-01-12
 img: stashy.png
 thumbnail: stashy-thumbnail.png
-alt: Stashy
-project-date: January 2013x
+alt: Stashy, responsive components
+project-date: January 2013
 client: Open Source
-category: Frameworks
+category: Libraries
 ---
 
-A collection of components for doing responsive things.
-Stashy is a library aiming to help you with your responsive designs.
-Inside the package, you'll find layouts and utilities that might just be useful to your responsive designs.
+#### What is this?
+Stashy is a collection of components for doing responsive things. This is a library aiming to help with responsive designs.
+In this library you'll find layouts and utilities useful for responsive designs.
+
+#### What I learn
+ Developing this library I really learn a lot about responsive design patterns and best practices. I had to do a lot of research in order to create useful, well designed components.
