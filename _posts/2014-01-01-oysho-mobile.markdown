@@ -11,4 +11,15 @@ project-date: January 2014
 client: Inditex
 category: Web Development
 ---
-We created this site using latest mobile design patterns and HTML5, CSS and JavaScript
+
+#### The Website
+We created this site using latest mobile design patterns and a lot of JavaScript :)
+
+#### What I learned
+I could improve my JavaScript design patterns knowledge and understand the client business rules better
+
+#### Tech
+- HTML
+- CSS
+- JavaScript
+- jQuery

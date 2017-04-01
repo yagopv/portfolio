@@ -11,5 +11,15 @@ project-date: April 2014
 client: Inditex
 category: Web Development
 ---
-This was my first mobile experience outside the Open Source world. I could develop the entire mobile site of the Inditex brand Uterque.
-The site was created using jQuery Mobile and it was a very nice experience. We can iterate the develop very fast and finished the project in a very short space.
+
+#### The Website
+I have a lot of fun creating this site. I decided to use jQuery Mobile and it brings much ease in development. We could iterate very fast then development sprints and finished the project in a very short window.
+
+#### What I learned?
+I learned a lot about jQuery Mobile of course :)
+
+#### Tech
+- HTML
+- CSS
+- JavaScript
+- jQuery Mobile

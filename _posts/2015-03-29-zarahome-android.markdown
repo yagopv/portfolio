@@ -11,5 +11,13 @@ project-date: March 2015
 client: Inditex
 category: Android development
 ---
-With more experience in the Android development world working in the ZaraHome Android app was a breeze.
-Having created a development base with another apps, we could create a more advanced experience with ease
+
+#### The app
+We created the first ZaraHome Android app.
+
+#### What I learned?
+With the gained experience in another apps and a base architecture setup for Android eCommerce projects, creating this app was much easier.
+
+#### Tech
+- Android SDK
+

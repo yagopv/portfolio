@@ -17,7 +17,10 @@ If you are developing applications using  modern JavaScript frameworks like Angu
 
 Azure Crawler exposes an API built on top of ASP .NET executing a phantom headless browser which allow to crawl pages and render the complete html to the SEO robot.
 
-### What I learn?
+### What I learned?
 Building this project I learn a lot about SEO and how Google index and rank our pages.
 I learn a lot as well about the internal of Azure and its app service.
 
+#### Tech
+- Azure Cloud Services
+- ASP MVC (Web API)

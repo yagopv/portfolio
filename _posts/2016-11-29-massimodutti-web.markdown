@@ -3,11 +3,11 @@ title: Massimo Dutti
 subtitle: Responsive website
 layout: default
 modal-id: 14
-date: 2014-07-18
+date: 2014-07-12
 img: dutti.png
 thumbnail: dutti-thumbnail.png
 alt: DurandalAuth
-project-date: September 2016
+project-date: July 2014
 client: Open Source
 category: Web Development
 ---

@@ -12,5 +12,14 @@ client: Inditex
 category: Web Development
 ---
 
+#### The Website
 With a team with solid knowledge about creating responsive websites, I can lead the development of the Bershka first responsive website.
-We choose Angular for helping us with the task and it was very easy to use compared with vanilla experiences :)
+
+#### What I learned
+I choose Angular for helping us with the task. It was very easy to use compared with vanilla experiences in the past :)
+
+#### Tech
+- HTML
+- SASS
+- JavaScript
+- Angular

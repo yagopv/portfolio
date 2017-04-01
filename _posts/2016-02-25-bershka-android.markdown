@@ -3,12 +3,12 @@ title: Bershka
 subtitle: Android app
 layout: default
 modal-id: 12
-date: 2014-07-18
+date: 2016-02-25
 img: bershka-android.png
 thumbnail: bershka-android.png
 alt: DurandalAuth
-project-date: September 2016
+project-date: February 2016
 client: Open Source
 category: Web Development
 ---
-A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+

@@ -3,11 +3,11 @@ title: Zara Home
 subtitle: Desktop Website
 layout: default
 modal-id: 13
-date: 2014-07-18
+date: 2016-03-29
 img: zarahome-old.png
 thumbnail: zarahome-old-thumbnail.png
 alt: DurandalAuth
-project-date: September 2016
+project-date: March 2016
 client: Open Source
 category: Web Development
 ---

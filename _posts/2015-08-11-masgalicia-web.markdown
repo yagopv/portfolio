@@ -3,12 +3,24 @@ title: MasGalicia
 subtitle: Responsive website
 layout: default
 modal-id: 12
-date: 2014-07-18
+date: 2015-08-11
 img: mas-galicia.png
 thumbnail: mas-galicia-thumbnail.png
 alt: DurandalAuth
-project-date: September 2016
+project-date: November 2015
 client: Open Source
 category: Web Development
 ---
-A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+
+#### The Website
+I could work in the new site for MasGalicia, a local small company. With a predefined design I develop the site and trained final users to work with.
+
+#### What I learned
+I learned to customize Wordpress completely.
+
+#### Tech
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Wordpress
