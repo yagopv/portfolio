@@ -6,9 +6,14 @@ modal-id: 12
 date: 2016-02-25
 img: bershka-android.png
 thumbnail: bershka-android.png
-alt: DurandalAuth
+alt: Bershka Android
 project-date: February 2016
-client: Open Source
-category: Web Development
+client: Inditex
+category: Android
 ---
 
+#### The app
+With all the past projects improving our workflow we can make the Bershka app the best developed to date.
+
+#### Tech
+- Android SDK

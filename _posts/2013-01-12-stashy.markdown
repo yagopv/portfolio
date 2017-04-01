@@ -19,7 +19,8 @@ In this library you'll find layouts and utilities useful for responsive designs.
 #### What I learned?
  Developing this library I really learn a lot about responsive design patterns and best practices. I had to do a lot of research in order to create useful, well designed components.
 
-#### Tech
+#### Tech & Features
 - HTML
 - LESS
 - JavaScript
+- Responsive design

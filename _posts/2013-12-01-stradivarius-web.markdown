@@ -19,8 +19,9 @@ I was working in the creation of the first responsive website at Stradivarius. W
 This was my first serious professional experience with a responsive web. I could strengthen my knowledge about responsive design.
 
 
-#### Tech
+#### Tech & Features
 - HTML
 - CSS
 - JavaScript
 - jQuery
+- Responsive design

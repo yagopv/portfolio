@@ -9,7 +9,7 @@ thumbnail: zarahome-android.png
 alt: Zara Home Android
 project-date: March 2015
 client: Inditex
-category: Android development
+category: Android
 ---
 
 #### The app

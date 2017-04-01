@@ -18,8 +18,9 @@ With a team with solid knowledge about creating responsive websites, I can lead 
 #### What I learned
 I choose Angular for helping us with the task. It was very easy to use compared with vanilla experiences in the past :)
 
-#### Tech
+#### Tech & Features
 - HTML
 - SASS
 - JavaScript
 - Angular
+- Responsive design

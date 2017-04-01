@@ -9,7 +9,7 @@ thumbnail: oysho-android.png
 alt: Oysho Android
 project-date: November 2015
 client: Inditex
-category: Android development
+category: Android
 ---
 
 #### The app

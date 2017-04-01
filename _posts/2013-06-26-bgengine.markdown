@@ -19,7 +19,8 @@ BgEngine is a blog engine built using ASP MVC and Entity Framework. The applicat
 I improved a lot my skills with .NET technologies. Before building BgEngine I worked quite a bit with ASP .NET Webforms and I don´ really like it. ASP MVC is a breeze to develop in comparison.
 I explored a lot of patterns while creating BgEngine as UnitOfWork and Repository. The engine is based in this patterns.
 
-#### Tech
+#### Tech & Features
 - ASP .NET
 - Entity Framework
 - JavaScript
+- Responsive design

@@ -11,4 +11,13 @@ project-date: March 2016
 client: Open Source
 category: Web Development
 ---
-A way to authenticate users using Durandal and token authentication with the new ASP.NET Identity membership. The project include a lot of features as Authentication and authorization using ASP.NET Identity 2 system and token authentication, client Authorization, Model validation, UnitOfWork and Repository patterns both client and server, BreezeJS for data management, HTML5 pushState and  optional SEO using AzureCrawler among others
+
+#### The Website
+After working in the maintenance of Zara Home for a few years we could get involved in the development of the new responsive website.
+
+#### Tech
+- HTML
+- CSS
+- JavaScript
+- AngularJS
+- Responsive design
