@@ -16,7 +16,7 @@ category: Web Development
 We build Massimo Dutti first responsive website. It was a real challenge to mix a good performance with the design proposed.
 
 #### What I learned?
-I decided to build this site following a component based architecture following the latest and more modern patterns and practices. The result was a fast and highly customizable site with a complicated responsive flow design.
+I decided to build this site following a component based architecture following the latest and more modern patterns and practices. The result was a fast and highly customizable site with a complicated responsive flow design. 
 
 While developing this site we decided to create a core library for future uses which can help us with a speedier development sprints.
 

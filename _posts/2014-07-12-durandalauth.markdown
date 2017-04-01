@@ -4,7 +4,7 @@ subtitle: Responsive website
 layout: default
 modal-id: 15
 date: 2014-07-18
-img: durandal-auth.jpg
+img: durandal-auth.png
 thumbnail: durandal-auth-thumbnail.png
 alt: DurandalAuth
 project-date: July 2014
