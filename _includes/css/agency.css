@@ -747,14 +747,14 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 100px;
+    height: 100px;
     border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
+    font-size: 60px;
+    line-height: 100px;
     outline: 0;
-    color: #fff;
-    background-color: #222;
+    color: #222;
+    background-color: #fff;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -763,7 +763,8 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #222;
+    color: #fff;
 }
 
 .btn:focus,
