@@ -13,7 +13,7 @@ category: Web Development
 ---
 
 #### The Website
-I have a lot of fun creating this site. I decided to use jQuery Mobile and it brings much ease in development. We could iterate very fast then development sprints and finished the project in a very short window.
+I have a lot of fun creating this site. I decided to use jQuery Mobile and it brings much ease to development. We could iterate very fast for the different sprints and finished the project in a very short window.
 
 #### What I learned?
 I learned a lot about jQuery Mobile of course :)

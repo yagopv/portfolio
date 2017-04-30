@@ -2,7 +2,7 @@
 title: Bershka
 subtitle: Android app
 layout: default
-modal-id: 12
+modal-id: 14
 date: 2016-02-25
 img: bershka-android.png
 thumbnail: bershka-android.png

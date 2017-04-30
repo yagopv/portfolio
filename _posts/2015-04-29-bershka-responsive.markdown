@@ -2,7 +2,7 @@
 title: Bershka
 subtitle: Responsive website
 layout: default
-modal-id: 10
+modal-id: 11
 date: 2015-04-29
 img: bershka.png
 thumbnail: bershka-thumbnail.png
@@ -16,7 +16,7 @@ category: Web Development
 With a team with solid knowledge about creating responsive websites, I can lead the development of the Bershka first responsive website.
 
 #### What I learned
-I choose Angular for helping us with the task. It was very easy to use compared with vanilla experiences in the past :)
+I choose Angular for helping us with the task. It was very easy to use compared with vanilla experiences in the past :).
 
 #### Tech & Features
 - HTML

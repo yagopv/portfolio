@@ -2,7 +2,7 @@
 title: DurandalAuth
 subtitle: Responsive website
 layout: default
-modal-id: 15
+modal-id: 8
 date: 2014-07-18
 img: durandal-auth.png
 thumbnail: durandal-auth-thumbnail.png

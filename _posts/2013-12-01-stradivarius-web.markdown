@@ -16,7 +16,7 @@ category: Web Development
 I was working in the creation of the first responsive website at Stradivarius. We created a nice UX and the bases for future developments with Inditex.
 
 #### What I learned?
-This was my first serious professional experience with a responsive web. I could strengthen my knowledge about responsive design.
+This was my first complex experience with a responsive web. I could strengthen my knowledge about responsive design.
 
 
 #### Tech & Features

@@ -13,7 +13,7 @@ category: Web Development
 ---
 
 #### The website
-I was developing new features for the old Zara Home site since its beginning. I was part of a run&maintain team who do the maintenance of our customer sites and develop new features.
+I was developing new features and maintaining the old Zara Home site since its beginning until nowadays.
 
 #### Tech
 - HTML

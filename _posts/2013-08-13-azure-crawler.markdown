@@ -13,13 +13,13 @@ category: Tools
 ---
 
 #### What is this?
-If you are developing applications using  modern JavaScript frameworks like Angular you probably already know that this type of applications are not crawlable by search engine robots without a couple of extra steps.
+If you are creating applications using  modern JavaScript frameworks like Angular you probably already know that this type of apps are not crawlable by search engines without a couple of extra steps.
 
-Azure Crawler exposes an API built on top of ASP .NET executing a phantom headless browser which allow to crawl pages and render the complete html to the SEO robot.
+Azure Crawler exposes a REST API built on top of ASP MVC and excecutes a phantom headless browser allowing to crawl pages and render the complete html to the SEO robot.
 
 ### What I learned?
 Building this project I learn a lot about SEO and how Google index and rank our pages.
-I learn a lot as well about the internal of Azure and its app service.
+I learn a lot as well about the Azure internals and its app service.
 
 #### Tech
 - Azure Cloud Services

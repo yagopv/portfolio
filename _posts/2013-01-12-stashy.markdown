@@ -13,11 +13,12 @@ category: Libraries
 ---
 
 #### What is this?
-Stashy is a collection of components for doing responsive things. This is a library aiming to help with responsive designs.
-In this library you'll find layouts and utilities useful for responsive designs.
+Stashy is a collection of components for doing responsive things. This is a open source library aiming to help with responsive designs.
+
+In this library you'll find layouts and utilities useful for your responsive designs.
 
 #### What I learned?
- Developing this library I really learn a lot about responsive design patterns and best practices. I had to do a lot of research in order to create useful, well designed components.
+Developing this library I really learn a lot about responsive design patterns and best practices. I had to do a lot of research in order to create useful, well designed components.
 
 #### Tech & Features
 - HTML

@@ -13,7 +13,7 @@ category: Web Development
 ---
 
 #### The Website
-Since the beginning of the site from these days we maintain and develop new features at Uterqüe.
+Since the beginning of the site from these days we maintain and develop new features at Uterqüe and introduce new technologies in the site for faster and better rendering.
 
 #### Tech
 - HTML
