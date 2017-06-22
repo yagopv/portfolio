@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2013-12-01
 img: stradivarius.png
-thumbnail: stradivarius-thumbnail.png
+thumbnail: stradivarius-thumbnail.jpg
 alt: Stradivarius
 project-date: December 2013
 client: Inditex

@@ -4,8 +4,8 @@ subtitle: Website
 layout: default
 modal-id: 6
 date: 2014-01-04
-img: zarahome-old.png
-thumbnail: zarahome-old-thumbnail.png
+img: zarahome-old.jpg
+thumbnail: zarahome-old-thumbnail.jpg
 alt: Zara Home
 project-date: January 2014
 client: Open Source

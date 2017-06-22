@@ -5,7 +5,7 @@ layout: default
 modal-id: 13
 date: 2015-08-11
 img: mas-galicia.png
-thumbnail: mas-galicia-thumbnail.png
+thumbnail: mas-galicia-thumbnail.jpg
 alt: DurandalAuth
 project-date: November 2015
 client: Open Source

@@ -5,7 +5,7 @@ layout: default
 modal-id: 15
 date: 2016-03-29
 img: zarahome.png
-thumbnail: zarahome-thumbnail.png
+thumbnail: zarahome-thumbnail.jpg
 alt: DurandalAuth
 project-date: March 2016
 client: Open Source

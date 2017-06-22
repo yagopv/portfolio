@@ -4,8 +4,8 @@ subtitle: Website
 layout: default
 modal-id: 12
 date: 2015-12-01
-img: uterque.png
-thumbnail: uterque-thumbnail.png
+img: uterque.jpg
+thumbnail: uterque-thumbnail.jpg
 alt: Uterque
 project-date: December 2015
 client: Inditex

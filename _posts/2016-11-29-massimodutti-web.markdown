@@ -5,7 +5,7 @@ layout: default
 modal-id: 16
 date: 2016-11-29
 img: dutti.png
-thumbnail: dutti-thumbnail.png
+thumbnail: dutti-thumbnail.jpg
 alt: Massimo Dutti Responsive
 project-date: November 2016
 client: Open Source

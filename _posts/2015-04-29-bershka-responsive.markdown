@@ -5,7 +5,7 @@ layout: default
 modal-id: 11
 date: 2015-04-29
 img: bershka.png
-thumbnail: bershka-thumbnail.png
+thumbnail: bershka-thumbnail.jpg
 alt: Bershka
 project-date: April 2015
 client: Inditex
