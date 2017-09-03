@@ -2,7 +2,7 @@
 title: Massimo Dutti
 subtitle: Responsive website
 layout: default
-modal-id: 16
+modal-id: 18
 date: 2016-11-29
 img: dutti.png
 thumbnail: dutti-thumbnail.jpg

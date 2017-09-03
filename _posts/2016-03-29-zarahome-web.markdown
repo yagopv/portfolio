@@ -2,7 +2,7 @@
 title: Zara Home
 subtitle: Responsive Website
 layout: default
-modal-id: 15
+modal-id: 17
 date: 2016-03-29
 img: zarahome.png
 thumbnail: zarahome-thumbnail.jpg

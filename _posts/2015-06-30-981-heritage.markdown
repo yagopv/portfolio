@@ -1,0 +1,22 @@
+---
+title: 981Heritage
+subtitle: Website
+layout: default
+modal-id: 13
+date: 2015-06-30
+img: 981heritage-1.png
+thumbnail: 981heritage-1.png
+alt: 981heritage
+project-date: June 2015
+client: Mas Malicia
+category: Web Development
+---
+
+#### The Website
+I started to maintain this Website for a local company using Wordpress
+
+#### Tech
+- HTML
+- CSS
+- JavaScript
+- Wordpress
