@@ -1,0 +1,22 @@
+---
+title: Shell SSO
+subtitle: website
+layout: default
+modal-id: 20
+date: 2018-06-01
+img: shell-sso.png
+thumbnail: shell-sso-thumbnail.png
+alt: Shell SSO
+project-date: June 2018
+client: Shell
+category: Web Development
+---
+
+#### The Website
+Shell Single Sign On. Authentication widget for Shell systems
+
+#### Tech & Features
+- HTML
+- JavaScript
+- React
+- Redux
